@@ -183,3 +183,7 @@ spring.ai.ollama.embedding.options.top-k=1
 spring.ai.ollama.chat.options.top-k=1
 ```
 
+## 帮助文档
+- [掘金技术社区 大模型应用开发](https://juejin.cn/post/7525614850199011368)
+- [掘金技术社区 LangChain构建RAG应用](https://juejin.cn/post/7525370788360323124)
+- [掘金技术社区 LLM应用系统评估与优化](https://juejin.cn/post/7525614850199027752)
