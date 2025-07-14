@@ -1,4 +1,10 @@
 # SpringBoot-AI
+# 后续系列文章在
+https://blog.csdn.net/singgel/category_13004992.html?spm=1001.2014.3001.5482  
+https://juejin.cn/column/7525700630524100617  
+https://www.zhihu.com/column/c_1928107609761743771  
+【AI】专栏。  
+
 # spring-ai-mcp-demo
 SpringAI MCP demo 结合通义千问大模型
 
